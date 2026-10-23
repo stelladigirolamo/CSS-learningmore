@@ -1,0 +1,14 @@
+#title {
+    text-align: center;
+    color: purple;
+}
+
+.headings {  
+    background-color: #eeeeee;
+    padding: 20px;
+}
+
+.class {
+  color: goldenrod;
+  font-weight: bold;
+}
