@@ -1,14 +1,48 @@
 #title {
     text-align: center;
     color: purple;
-}
-
-.headings {  
-    background-color: #eeeeee;
+    width: 440px;
+    margin: 0 auto 20px;
     padding: 20px;
+    border: 5px solid #ffcccc;
+    border-radius: 8px;
 }
 
 .class {
+    width: 440px;
+    margin: 0 auto 20px;
+    padding: 20px;
+    background-color: #007bff;
+    border: 10px solid #eeeccc;
+    border-radius: 8px;
+
+}
+
+.month {
+    width: 440px;
+    margin: 0 auto 20px;
+    padding: 20px;
+    background-color: #eeeeee;
+}
+
+.sentences {
+    text-align: center;
+}
+
+.headings {
+    margin: 0 0 12px;
+    text-align: center;
+}
+
+.sentences {
+    margin: 8px 0;
+}
+
+.month-name {
   color: goldenrod;
   font-weight: bold;
+}
+
+* {
+  box-sizing: border-box;
 }
